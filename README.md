@@ -1,6 +1,3 @@
-# DeepLearning-Notes
-Notes, links and other deep-learning related content
-
 # Deep learning for NLP
 https://github.com/andrewt3000/DL4NLP
 
