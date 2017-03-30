@@ -41,6 +41,10 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ## The Anatomy of Deep Learning Frameworks
 https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47#.3518pw6yt
 
+# Papers:
+[Improved Representation Learning for Question Answer Matching](http://www.aclweb.org/anthology/P16-1044)
+[CAN AI GENERATE LOVE ADVICE?: TOWARD NEURAL ANSWER GENERATION FOR NON-FACTOID QUESTIONS](https://openreview.net/pdf?id=ryQbbFile)
+
 # Courses:
 ## Deep learning for complete beginners: neural network fine-tuning techniques
 http://online.cambridgecoding.com/notebooks/cca_admin/neural-networks-tuning-techniques
