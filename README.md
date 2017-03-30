@@ -5,9 +5,6 @@ https://github.com/andrewt3000/DL4NLP
 ## GAN (Ian Goodfellow)
 https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks
 
-## Awesome - Most Cited Deep Learning Papers
-https://github.com/terryum/awesome-deep-learning-papers
-
 ## LSTM NEURAL NETWORK FOR TIME SERIES PREDICTION
 http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction
 
@@ -42,7 +39,10 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47#.3518pw6yt
 
 # Papers:
+[Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+
 [Improved Representation Learning for Question Answer Matching](http://www.aclweb.org/anthology/P16-1044)
+
 [CAN AI GENERATE LOVE ADVICE?: TOWARD NEURAL ANSWER GENERATION FOR NON-FACTOID QUESTIONS](https://openreview.net/pdf?id=ryQbbFile)
 
 # Courses:
