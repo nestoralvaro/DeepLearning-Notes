@@ -51,3 +51,7 @@ http://online.cambridgecoding.com/notebooks/cca_admin/neural-networks-tuning-tec
 
 ## Fast.ai course
 http://course.fast.ai/start.html
+
+## Article on different courses
+This article includes the courses listed above and expands on them:
+https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
