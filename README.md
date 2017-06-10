@@ -61,7 +61,6 @@ https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-cou
 
 ### Courses I like:
 <br/>
-
 [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
 <br/>
