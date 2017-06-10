@@ -60,7 +60,7 @@ This article includes the courses listed above and expands on them:
 https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
 
 ### Courses I like:
-<br/>
+
 [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 
 <br/>
