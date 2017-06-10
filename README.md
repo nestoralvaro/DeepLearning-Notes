@@ -41,6 +41,9 @@ https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e4
 ### Neural Networks and Deep Learning (Book)
 http://neuralnetworksanddeeplearning.com/
 
+### Understanding Gradient Descent
+http://iamtrask.github.io/2015/07/27/python-network-part2/
+
 # Papers:
 [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
