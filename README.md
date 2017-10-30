@@ -2,6 +2,9 @@
 ### Deep learning for NLP
 https://github.com/andrewt3000/DL4NLP
 
+### Must-read Path-breaking Papers About Image Classification
+http://blog.paralleldots.com/technology/deep-learning/must-read-path-breaking-papers-about-image-classification/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGDVX8SqNSdyfDMVuryIbag%3D%3D
+
 ### GAN (Ian Goodfellow)
 https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks
 
